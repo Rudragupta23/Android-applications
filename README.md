@@ -191,20 +191,10 @@ This repository is created to:
 
 ---
 
-# 👨‍💻 Author
-
-Your Name
-B.Tech Computer Science Engineering
-Android Developer
-
----
-
 # 📌 Note
 
 Each project is independent and can be opened separately in Android Studio.
 
 ---
 
-# ⭐ If you find this useful
 
-Feel free to star the repository and explore the projects.
