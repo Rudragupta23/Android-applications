@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ===================== -->
+    <!-- APP THEME (IMPORTANT) -->
+    <!-- ===================== -->
+    <style name="Theme.RealCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- You can customize app colors later -->
+    </style>
+
+    <!-- ===================== -->
+    <!-- CALCULATOR BUTTON STYLES -->
+    <!-- ===================== -->
+
+    <!-- Number buttons -->
+    <style name="CalcButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">#2C2C2C</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+    <!-- Operator buttons (+, C) -->
+    <style name="CalcButtonOperator">
+        <item name="android:background">#FF9800</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+    <!-- Equal button (=) -->
+    <style name="CalcButtonEqual">
+        <item name="android:background">#2196F3</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+</resources>

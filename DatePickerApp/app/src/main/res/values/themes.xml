@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.DatePickerApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#6C63FF</item>
+        <item name="colorSecondary">#FF6584</item>
+    </style>
+
+</resources>
