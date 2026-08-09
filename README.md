@@ -1,7 +1,7 @@
 # Android Projects Collection
 
 This repository contains multiple Android applications developed using Android Studio.
-Each project demonstrates different Android concepts including UI design, activity lifecycle, event handling, screen orientation, and more.
+Each project demonstrates different Android concepts including UI design, activity lifecycle, event handling, screen orientation, and more features.
 
 ---
 
